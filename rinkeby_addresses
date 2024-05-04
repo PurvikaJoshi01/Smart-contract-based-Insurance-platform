@@ -1,0 +1,20 @@
+Using network 'rinkeby'.
+
+Running migration: 1_initial_migration.js
+  Replacing Migrations...
+  ... 0x9b8f6b4ff8d97404ebb2fe331ded12fd1ebd2e60d99ff339370a0877d9ed2c31
+  Migrations: 0x6a8740269410ab2823316b83ebbe3dc5176e8933
+Saving successful migration to network...
+  ... 0x0203c243d663d69144d16bb69b3121752280a53808cfd40106236dfb7d1e19db
+Saving artifacts...
+Running migration: 2_deploy_contracts.js
+  Didn't deploy JsmnSolLib; using 0xb51cc650ad25e873c35ab285b150856142104f22
+  Didn't deploy ECMath; using 0x4313d281fb8d291e7cacbbe32cbedd38a5eac9b7
+  Didn't deploy bytesutils; using 0x5e2698e07d0088d63a8551a19671173f04b47c4c
+  Didn't deploy tlsnutils; using 0xfd03f2cfb8baff8a0df0898515e24959b2e1dff5
+  Replacing Insurance...
+  ... 0xb8745157183fee837cd97db43fc30e1014c8c8be4fd17ad378a15a1a0493a4c0
+  Insurance: 0x53e8736730b57ffe917bb6078281b767bea54a7f
+Saving successful migration to network...
+  ... 0x546f47c975a1f53ccc42c24441f8f23f87ada760679d8c0ad4cbd93a14880885
+Saving artifacts...
